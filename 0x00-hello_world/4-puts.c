@@ -8,8 +8,7 @@
  * Return: Always 0 (0-executed sucessfully)
  */
 
-int main(void)   /* main.c */
-
+int main(void)
 {
 
 	puts("\"Programming is like building a multilingual puzzle");
